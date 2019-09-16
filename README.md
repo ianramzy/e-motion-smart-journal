@@ -5,5 +5,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ianramzy/e-motion-smart-journal.svg)
 [![Repo Link](https://img.shields.io/badge/Repo-Link-black.svg)](https://github.com/ianramzy/e-motion-smart-journal)
 
-📔Mental health platform powered by journaling and machine learning.
+📔A smart diary that gives you data-driven insights into your mental well being.
 # → https://ianramzy.com/project/e-motion-smart-journal.html
